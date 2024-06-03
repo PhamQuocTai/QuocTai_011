@@ -9,7 +9,7 @@
     @yield('header')
 </head>
 <body>
-    <header>
+<header>
  <!-- Navbar start -->
  <div class="container-fluid">
             <div class="container topbar bg-primary d-none d-lg-block">
@@ -116,11 +116,11 @@
             </div>
         </div>
         <!-- Hero End -->
-        </header>
+</header>
     <main>
         @yield('content')
     </main>
-    <footer>
+<footer>
          <!-- Footer Start -->
          <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5">
             <div class="container py-5">
